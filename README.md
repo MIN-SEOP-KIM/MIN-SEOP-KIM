@@ -3,7 +3,7 @@
 코딩 열심히 하고 있는 학생입니다!
 
 # :pencil2: LEARN :pencil2:
-(https://img.shields.io/badge/-JAVA-blue)
+
 
 
 [![Solved.ac
