@@ -29,4 +29,4 @@
 | 스마일게이트 멘토링 | 2021 ~ 현재 | 스마일게이트 |
 
 ## :speech_balloon: My_SNS :speech_balloon:
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
+  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minseop.05/"/></a>
